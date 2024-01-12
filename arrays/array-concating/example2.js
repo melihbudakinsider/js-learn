@@ -21,6 +21,6 @@ const userInformation2 = [
 ];
 
 /**
- * Concat objeleri de 
+ * Concat, dizi içerisindeki objeleri de birleştirebilir
  */
 console.log(userInformation1.concat(userInformation2));
